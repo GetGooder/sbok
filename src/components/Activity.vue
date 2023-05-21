@@ -29,7 +29,7 @@ export default {
         input: "",
         numbers: 0,
         display: "",
-        time: 5,
+        time: 8,
         attempts: 3,
         successfulAttempts: 0,
     }
