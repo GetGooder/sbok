@@ -84,7 +84,7 @@ export default {
         }
         
         this.input = "";
-        this.time = 5;
+        this.time = 8;
         this.start();
     }
   },
