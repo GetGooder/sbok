@@ -59,7 +59,7 @@ export default {
       time() {
           if (this.time === 0) {
               this.attempts--;
-              this.time = 5;
+              this.time = 8;
               this.input = "";
               this.start();
           }
